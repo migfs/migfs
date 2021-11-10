@@ -1,10 +1,10 @@
 ## Olá! Eu sou o {Miguel}
 
 
-- 🔭 Hoje, sou Estagiário COE Analytics | COE DT Arquitetura na Globo
-- 📕 Estudando Análise e Desenvolvimento de Sistemas na UVA
-- 💻 Estudando React, JavaScript, Python, C/C++
-- 😄 Pronouns: ele/dele
+- 🔭 Work: "Hoje, sou Estagiário COE Analytics | COE DT Arquitetura na Globo"
+- 📕 Estudando: "Análise e Desenvolvimento de Sistemas na UVA"
+- 💻 Aprendizado constante: "React, JavaScript, Python, C/C++"
+
 
 <div align="center">
   <a href="https://github.com/migfs">
@@ -31,5 +31,24 @@
    ![Snake animation](https://github.com/migfs/migfs/blob/output/github-contribution-grid-snake.svg)
  
   </div>
+  
+  ## IDE
+  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">  <img align="center" alt="pycharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/pycharm/pycharm-original.svg">
+  
+  <div style="display: inline_block">
+
+  ## Back-end
+  <img align="center" alt="migfs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
+ <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+  ## Front-end
+ <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+
 
 
