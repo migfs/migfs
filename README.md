@@ -1,7 +1,7 @@
 ## Olá! Eu sou o {Miguel}
 
 
-- 🔭 Hoje, sou Estagíario COE Analytics | COE DT Arquitetura na Globo
+- 🔭 Hoje, sou Estagiário COE Analytics | COE DT Arquitetura na Globo
 - 📕 Estudando Análise e Desenvolvimento de Sistemas na UVA
 - 💻 Estudando React, JavaScript, Python, C/C++
 - 😄 Pronouns: ele/dele
